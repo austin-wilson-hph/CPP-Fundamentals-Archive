@@ -1,0 +1,71 @@
+How many bits make one byte?
+12
+8
+15
+6
+It's less than 10.
+B
+What is called the brain of the computer?
+Memory
+Control unit
+ALU
+CPU
+It's a combination of the control unit and the arithmetic logic unit.
+D
+Which number system is used by computers to perform data operations?
+Binary
+Hexadecimal
+Decimal
+Octal
+It uses only 1s and 0s.
+A
+What language does the computer understand?
+C and C++
+English
+Machine language
+All languages
+It doesn't understand the languages people use to communicate with each other.
+C
+Which is considered to be the computers short term memory?
+REM
+ROM
+RAM
+RIM
+It's where data is temporarily stored.
+C
+What is the primary function of an operating system in a computer?
+Running applications
+Storing data
+Managing hardware and software resources
+Generating reports
+It ensures all parts work together.
+C
+Which computer component is responsible for temporarily storing data that is currently being used or processed?
+CPU Cache
+Hard Disk Drive (HDD)
+Optical Drive
+Monitor
+It’s not for storing files long-term or displaying information.
+A
+Which programming language is often used for web development and is known for its versatility and ease of use?
+Java
+Python
+JavaScript
+Ruby
+Its name starts with "J".
+C
+What does the acronym "URL" stand for in the context of the internet and web browsing?
+Uniform Resource Locator
+Universal Routing Language
+User Registration Link
+User-Related Link
+It doesn’t contain the word "User".
+A
+Which computer file extension is commonly associated with executable program files in Windows operating systems?
+txt
+exe
+doc
+jpg
+It's an extension that indicates a file can be run as a program.
+B
+
