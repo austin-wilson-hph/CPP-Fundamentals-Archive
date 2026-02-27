@@ -4,15 +4,15 @@ This repository is a curated collection of projects completed during my initial 
 
 ## Featured Implementations
 
-### 🎮 Yahtzee Scoring Logic
+### Yahtzee Scoring Logic
 - **Goal:** Determine the highest possible score from a set of 5 dice.
 - **Key Skills:** Boolean logic, function modularization, and pattern recognition (Straights, Full House, etc.).
 
-### 📁 Movie & Quiz Drivers (File I/O)
+### Movie & Quiz Drivers (File I/O)
 - **Goal:** Parse external `.txt` data files to populate object arrays.
 - **Key Skills:** Sequential file reading, data normalization, and class instantiation.
 
-### 📊 Array & Search Utilities
+### Array & Search Utilities
 - **Goal:** Efficiently manipulate and retrieve data from parallel arrays.
 - **Key Skills:** Circular rotation algorithms, linear search, and boundary validation.
 
